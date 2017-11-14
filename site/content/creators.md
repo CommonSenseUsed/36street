@@ -7,6 +7,6 @@
 # Joey \
 ### Web Version Creator / Tech Guy \
 # Linus  \
-### Co-creator \
+### Co-creator \ Slide Guy
 # Zack  \
 ### Story Creator / Co-creator
